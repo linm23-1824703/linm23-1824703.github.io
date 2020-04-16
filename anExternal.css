@@ -1,11 +1,11 @@
 body{
-    background-image: url('introToCss/dark_wood.png');
+    background-image: url('dark_wood.png');
 }
 
 #Header {
     float: center;
     border:solid 8px black;
-    border-image: url(introToCss/border.png) 30 round;
+    border-image: url(border.png) 30 round;
 }
 
 #Description {
